@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./header.png" alt="header"/>
+  <img src="./headerv2.png" alt="header"/>
 </div>
 <p align="center"> (Open for Hire)</p> 
 
