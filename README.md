@@ -21,7 +21,7 @@ Dedicated Full Stack developer with a background in Supply-Chain Operations. I e
   <img src="https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=appveyor" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=appveyor&logocolor:white" />&nbsp;&nbsp;
 </p>
-<p align="center"> <samp> HTML5, CSS3, BootStrap, JavaScript, jQuery, Node.js, MySQL, Git, Github. </samp></p> 
+<p align="center"> <samp> HTML, CSS, BootStrap, JavaScript, jQuery, Node.js, SQL, Git </samp></p> 
 
 <hr>
 
