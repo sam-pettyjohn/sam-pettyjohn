@@ -1,10 +1,10 @@
-<!-- <h1 align="center"> 👋 </h1> -->
+<h1 align="center"> 👋 </h1>
 
 
-<!-- <div align="center">
+<div align="center">
   <img src="./header.png" alt="header"/>
-</div> -->
-<!-- <p align="center"> (Open for Hire)</p> -->
+</div>
+<p align="center"> (Open for Hire)</p> 
 
 <h2 align="center"> About Me </h2>
 <p align="center">
@@ -30,7 +30,7 @@ Dedicated Full Stack developer with a background in Supply-Chain Operations. I e
   <a target="_blank"href="https://www.linkedin.com/in/samuel-pettyjohn-0730819a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sammpj12@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<!-- 
+
 <hr>
 
-<h2  align="center">Check Out My Repos ⬇️</h2> -->
+<h2  align="center">Check Out My Repos ⬇️</h2>
