@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./Screen Shot 2022-06-16 at 5.45.43 PM.png" alt="header"/>
+  <img src="./header.png" alt="header"/>
 </div>
 <p align="center"> (Open for Hire)</p>
 
